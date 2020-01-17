@@ -1,6 +1,6 @@
 # Twitter Sentiment Analyser
-# Basic script to analyse and graph how a Twitter acocunt's "sentiment"
-# behaves nad varies over the months of a year. Version1.
+# Basic script to analyse and graph how a Twitter account's "sentiment"
+# varies over the months of a year. Version1.
 import GetOldTweets3 as got
 from textblob import TextBlob
 import matplotlib.pylab as plt
